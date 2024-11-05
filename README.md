@@ -1,4 +1,4 @@
-Conectate a una API(https://github.com/Lancercrack25/cuseiappi) utilizando JavaScript de manera sencilla y eficiente utilizando fetch, async/await, ademas del uso de diferentes métodos de solicitud los cuales podras:
+Conectate a una API utilizando JavaScript de manera sencilla y eficiente utilizando fetch, async/await, ademas del uso de diferentes métodos de solicitud los cuales podras:
 
 -Obtener información de una base de datos y mostrarla en una interfaz de usuario (por ejemplo, en una tabla HTML).
 
